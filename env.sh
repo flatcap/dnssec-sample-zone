@@ -1,0 +1,6 @@
+export PATH="$PATH:/var/named/bin"
+export DNSSEC_DOMAINS="example.com"
+export DNSSEC_PORTS="443 993 995"
+export DNSSEC_KEY_DIR="keys"
+export DNSSEC_GKG_USERNAME="gkg_user"
+export DNSSEC_GKG_PASSWORD="my_gkg_password"

@@ -1,0 +1,12 @@
+/*.db.signed
+/*.tlsa.inc
+/bin
+/chroot
+/data
+/dns-glue.inc
+/dynamic
+/env.sh
+/keys
+/named.ca
+/slave
+/ssh-fingerprint.inc
